@@ -1,4 +1,4 @@
-# Student-Grade-Calc
+# Student-Grade-Calculator
 
 Simple application written in C++. The user enters a student's name and marks for 4 subjects. The program checks that every mark is valid, then shows the average mark, letter grade and Pass/Fail result. After each student it asks whether to calculate for another one.
 
